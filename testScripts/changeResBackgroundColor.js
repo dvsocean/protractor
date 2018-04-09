@@ -3,7 +3,7 @@ var crFlow = require('../pageObjects/crFlow.js'); //from page object
 
 var name = "";
 var lastName = "";
-var PNR = "";
+
 
 describe('Chnage res flow', function(){
 	browser.waitForAngularEnabled(false); //If testing angular app remove this line

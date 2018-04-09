@@ -3,7 +3,7 @@ var crFlow = require('../pageObjects/crFlow.js'); //from page object
 
 var name = "";
 var lastName = "";
-var PNR = "";
+
 
 describe('Padding for continue button', function(){
 	browser.waitForAngularEnabled(false);
